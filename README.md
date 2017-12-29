@@ -1,4 +1,3 @@
-ReadMe?
 # How to learn to code
 advice on how to learn and practice code.
 
